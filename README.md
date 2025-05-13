@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Rich 👋</h1>
-<p align="center">🎮 Software Engineer • Unity Developer • Systems Thinker</p>
+<p align="center">🎮 Software Engineer • Unity Developer • Certified Scrum Master </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
